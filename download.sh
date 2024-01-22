@@ -13,5 +13,5 @@
 # limitations under the License.
 # ==============================================================================
 
-gdown --folder https://bit.ly/alphageometry
+gdown --folder https://drive.google.com/drive/u/0/folders/1ZLaZ2ajtOcILDWa5ePPLX1bmaf_BNRZV
 export DATA=ag_ckpt_vocab
